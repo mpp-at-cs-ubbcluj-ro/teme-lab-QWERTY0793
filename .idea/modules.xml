@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GradleStart.iml" filepath="$PROJECT_DIR$/GradleStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleStart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleStart.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleStart.test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleStart.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Medii de proiectare si programare.iml" filepath="$PROJECT_DIR$/.idea/Medii de proiectare si programare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartGradle.iml" filepath="$PROJECT_DIR$/StartGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/module.iml" filepath="$PROJECT_DIR$/module/module.iml" />
+    </modules>
+  </component>
+</project>
